@@ -1,4 +1,4 @@
-# spending
+# wallet
 
 ## Project setup
 ```
